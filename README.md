@@ -1,23 +1,21 @@
 # Project Name
 
-> Project description
+> MusiCloud, a web app based off SoundCloud. 
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/FEC-group-Zelda/FEC-comments-feed-module-riley
+  - https://github.com/FEC-group-Zelda/fec-service-nick
+  - https://github.com/FEC-group-Zelda/FEC-media-player-justin
 
 ## Table of Contents
 
-1. [Usage](#Usage)
 1. [Requirements](#requirements)
 1. [Development](#development)
 
 ## Usage
 
-> Some usage instructions
+> (Someday I might fill this out) 
 
 ## Requirements
 
