@@ -1,4 +1,4 @@
-# Project Name
+# MusiCloud
 
 > MusiCloud, a web app based off SoundCloud. 
 
